@@ -1,0 +1,10 @@
+Menu 1 Nasi Pecel 10000
+Menu 2 Nasi Rawon 20000
+Menu 3 Bakso Bulat 15000
+Menu 4 Gadogado Nasi 15000
+Menu 5 nasi goreng 17000
+Menu 6 Sate Kambing+Nasi 25000
+Menu 7 Soto kambing+Nasi 25000
+Menu 8 Gudek Manis 17000
+Menu 9 nasi Mawut 12000
+Menu 10 nasi timbel 12000
