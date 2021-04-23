@@ -2,12 +2,6 @@
 filename='input.txt'
 
 while read line; do
-# reading each line
-
-# # for i in $line
-# # do
-# # echo -n "${i[1]} "
-# # done
 
 if [[ $line =~ "nasi" ]] || [[ $line =~ "Nasi" ]]
 then
@@ -17,13 +11,5 @@ else
     continue
 fi
 
-
-
 done < $filename
 
-# while read line;
-# do
-#     echo $line
-# done < input.txt
-
-# for word in $(sed 4d8d input.txt); do echo $word; done
